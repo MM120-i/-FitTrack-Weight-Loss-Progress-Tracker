@@ -1,11 +1,3 @@
-/***************************************
-* 22Fa - Programming Assignment 2 *
-* Author: Marufuzzaman Mahim
-* Email: mm120@my.yorku.ca
-* EECS username: mm120
-* Yorku student #: 218146712
-****************************************/
-
 #include <stdio.h>
 #include <ctype.h>  // for tolower()
 #include <string.h>
